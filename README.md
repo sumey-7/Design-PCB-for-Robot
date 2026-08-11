@@ -5,6 +5,14 @@ A custom PCB designed using EasyEDA for an intelligent robotics system powered b
 
 ---
 
+<p align="center">
+  <img src="Schematic.png" width="32%" alt="Image 1">
+  <img src="2D.png" width="32%" alt="Image 2">
+  <img src="3D.png" width="32%" alt="Image 3">
+</p>
+
+---
+
 ## 🛠️ Step-by-Step Design Journey & Component Rationale
 
 * **Step 1: Power Management Stage (MT3608 Boost Converter)** 🔋
