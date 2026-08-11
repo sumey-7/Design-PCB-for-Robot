@@ -1,19 +1,21 @@
 # Design-PCB-for-Robot 🤖⚡
 
-## 📌 Project Overview
+# 📌 Project Overview
 A custom PCB designed using EasyEDA for an intelligent robotics system powered by an **ESP32** microcontroller, integrated with a sound sensor, four servo motors, and an advanced power management stage.
 
 ---
 
+# 📸 Project Visualizations:
+
 <p align="center">
   <img src="Schematic.png" width="32%" alt="Image 1">
   <img src="2D.png" width="32%" alt="Image 2">
-  <img src="3D.png" width="32%" alt="Image 3">
+  <img src="3D-Design.png" width="32%" alt="Image 3">
 </p>
 
 ---
 
-## 🛠️ Step-by-Step Design Journey & Component Rationale
+#🛠️ Step-by-Step Design Journey & Component Rationale
 
 * **Step 1: Power Management Stage (MT3608 Boost Converter)** 🔋
   * *Component:* **MT3608 DC-DC Boost Converter**
@@ -34,8 +36,3 @@ A custom PCB designed using EasyEDA for an intelligent robotics system powered b
     * **Bottom Layer (Blue):** Dedicated to the common ground (GND) plane to ensure signal integrity, reduce noise, and complete the circuit safely.
 
 ---
-
-## 📸 Project Visualizations & Live Link
-* **2D PCB Layout Preview:** [View 2D Design](https://via.placeholder.com/800x400.png?text=2D+PCB+Layout+Preview) 📐
-* **3D Realistic Model Preview:** [View 3D Render](https://via.placeholder.com/800x400.png?text=3D+PCB+Model+Preview) 🕶️
-* **Live EasyEDA Project:** [EasyEDA Workspace Link](https://easyeda.com/editor#id=9edfc41c80fc49a70f345ecf7f0dd99) 🔗
